@@ -7,15 +7,15 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "21803165"))
 API_HASH = getenv("API_HASH", "05e5e695feb30e25bef47484cc006da7")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "7403621976"))
+OWNER_ID = int(getenv("OWNER_ID", "7727382964"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Purvi_UPdates")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "WORLD_ALPHA")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_ALPHA_BABY_lll")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "PARADISE_SOCITEY")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "the_incricible")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "llMR_KAMINAXDll")
 
 # Random Start Images
 IMG = [
-    "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
+    "https://files.catbox.moe/eaegsn.jpg",
     "https://telegra.ph/file/396e2af77c4664164de18.jpg",
     "https://telegra.ph/file/6f92a0e943d68a15169c0.jpg",
     "https://telegra.ph/file/d49fbf4c00f839641afe3.jpg",
